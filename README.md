@@ -9,3 +9,6 @@ This is a fictional portfolio demonstration, not a real business. The form does 
 
 ## Customize
 Edit brand, service categories, copy, and photos in `index.html` and `styles.css`. Mobile menu and demo form behavior are in `script.js`.
+
+## V2
+Updated copy and styling to focus on real outdoor landscaping services rather than architectural/interior design. Photos are illustrative external links and should be reviewed and replaced with properly licensed project-specific images before commercial use.
